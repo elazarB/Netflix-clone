@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import { BsFillPlayFill } from "react-icons/bs";
 import { BiChevronDown } from "react-icons/bi";
