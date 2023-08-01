@@ -22,6 +22,7 @@ export async function getServerSideProps(context: NextPageContext) {
   };
 }
 
+
 const profiles = () => {
   const router = useRouter()
   const {data: user} = useCurrentUser();
